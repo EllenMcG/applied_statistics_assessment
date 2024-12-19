@@ -4,7 +4,7 @@ This Github repo contains the project repo completed as part of the Applied Stat
 This assessment is broken into tasks and project. 
 
 ## **Assessment**
-This repo contains two Jupyter Notebooks; *tasks.ipynb* for tasks and *project.ipynb* for the project with further information provided below. 
+This repo contains two Jupyter Notebooks; *tasks.ipynb* for tasks and *project.ipynb* for the project with further information provided below in their respective sections. 
 
 ### **Tasks**
 For the Tasks project tasks.ipynb - this Jupyter Notebook contains Tasks 1 - 4
